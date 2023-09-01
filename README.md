@@ -41,7 +41,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+![Equipe](https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos_page-0001.jpg?raw=true)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
