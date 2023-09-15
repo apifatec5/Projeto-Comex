@@ -44,13 +44,7 @@ Futuramente
 ![Equipe](https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos_page-0001.jpg?raw=true)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
-
+O objetivo deste projeto
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
 Apresentação das funcionalidades
