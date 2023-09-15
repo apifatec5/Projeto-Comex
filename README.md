@@ -44,7 +44,10 @@ Futuramente
 ![Equipe](https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos_page-0001.jpg?raw=true)
 
 # Objetivo do Projeto
-O objetivo deste projeto
+O objetivo deste projeto é estabelecer um eficiente e interativo dashboard de análise de dados dentro do Power BI, focando nos modais
+de transporte mais utilizados para importação e expoprtação no Brasil, ao mesmo tempo em que proporciona uma representação gráfica e 
+geográfica do fluxo de cargas. Ao criar relacionamentos entre diferentes conjuntos de dados relevantes, é possível fornecer uma visão
+abrangente e detalhada do panorama logístico do país.
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
 Apresentação das funcionalidades
