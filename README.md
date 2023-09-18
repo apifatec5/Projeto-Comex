@@ -48,7 +48,7 @@ O objetivo deste projeto é estabelecer um eficiente e interativo dashboard de a
 de transporte mais utilizados para importação e exportação no Brasil, ao mesmo tempo em que proporciona uma representação gráfica e 
 geográfica do fluxo de cargas. Ao criar relacionamentos entre diferentes conjuntos de dados relevantes, é possível fornecer uma visão
 abrangente e detalhada do panorama logístico do país. O dashboard resultante não apenas fornecerá uma visão geral dos modais mais utilizados,
-mas também permitirá uma análise profunda como, custos, tempos de trânsito e volumes de carga. Além disso, a representação geográfica das cargas 
+mas também permitirá uma análise profunda como, custos, tempos de trânsito e volumes de carga. Além disso, a representação geográfica das cargas
 permitirá visualizar de forma intuitiva as rotas e os hubs logísticos. Sendo assim, este projeto visa capacitar empresas e profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis.
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
