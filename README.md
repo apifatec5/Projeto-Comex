@@ -1,8 +1,8 @@
 # Aprendizado por Projeto Integrado (API) - Template
 
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimento e habilidades ao
+trabalhar em projetos práticas que abrangem várias áreas de aprendizado. Esses projetos geralmente são interdiciplinares
+e podem envolver a aplicação de conhecimentos de várias disciplinas para resolver problemas do mundo real.
 
 # Índice
 
@@ -24,12 +24,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 06/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00 | 27/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01|  18/10/2023| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 08/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 # Micro Certificações
@@ -50,42 +50,13 @@ geográfica do fluxo de cargas. Ao criar relacionamentos entre diferentes conjun
 abrangente e detalhada do panorama logístico do país. O dashboard resultante não apenas fornecerá uma visão geral dos modais mais utilizados,
 mas também permitirá uma análise profunda como, custos, tempos de trânsito e volumes de carga. Além disso, a representação geográfica das cargas
 permitirá visualizar de forma intuitiva as rotas e os hubs logísticos. Sendo assim, este projeto visa capacitar empresas e profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis.
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
-## Tecnologias Utilizadas
-  ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
-
- ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
-  
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
 
 # Cronograma das Sprints
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://2023co.atlassian.net/jira/software/projects/SCRUM/boards/2)
 
 # Backlog do produto
   
@@ -165,11 +136,11 @@ User stories
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Miro| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| 5W2H| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| SWOT | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
@@ -179,23 +150,22 @@ User stories
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Comunicação| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Autonomia| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Pessoa 1         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Pessoa 2 |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | Pessoa 3              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Pessoa 4                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Pessoa 5                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | Pessoa 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+| Product Owner |   Júlia Silva      |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
+| Scrum Master  | Douglas Nogueira|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
+| Team Member   | Allan Quirino             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
+|  Team Member  | Jocemar Santos            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Team Member  | Maria Clara Martins               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
+|  Team Member  | Maria Eduarda Ferreira    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 
