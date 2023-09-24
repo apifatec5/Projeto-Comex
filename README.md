@@ -101,11 +101,10 @@ User stories
 - [x] Documentação sprint 1;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Coleta e tratamento dos dados;
-- [ ] Fazer relacionamento dos dados no Power BI;
-- [ ] Dashboard (TESTE) das informações gerais;
-- [ ] Pesquisar conceitos de geografia de fluxo logístico;
-- [ ] Documentação sprint 1.
+- [ ] Backlog do produto;
+- [ ] GitHub estruturado com link disponibilizado;
+- [ ] Jira Software estruturado;
+- [ ] Atribuição das atividades para a Sprint 1.
       
 ## Sprint 2 . Implementação
 - [x] Defina o propósito do template;
