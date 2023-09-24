@@ -69,7 +69,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/142995260/270194914-1524c5ba-d804-4e23-8b0d-52344740ef10.jpg)
+![product backlog](https://user-images.githubusercontent.com/142995260/270196274-15690fff-1215-4cb9-9f22-8de7c54f9162.jpg)
 
 </div>
 
