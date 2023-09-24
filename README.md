@@ -93,15 +93,11 @@ User stories
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Coleta e tratamento dos dados;
+- [x] Fazer relacionamento dos dados no Power BI;
+- [x] Dashboard (TESTE) das informações gerais;
+- [x] Pesquisar conceitos de geografia de fluxo logístico;
+- [x] Documentação sprint 1;
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
