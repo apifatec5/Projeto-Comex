@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+ComexSmart!+:%29)](https://git.io/typing.svg)
 
+
 # Aprendizado por Projeto Integrado 
 
 A aprendizagem por projeto integrador é um método de ensino em que os alunos adquirem conhecimento e habilidades ao
