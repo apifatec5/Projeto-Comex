@@ -94,11 +94,10 @@ User stories
 
 
 ## Sprint 0. Concepção
-- [x] Coleta e tratamento dos dados;
-- [x] Fazer relacionamento dos dados no Power BI;
-- [x] Dashboard (TESTE) das informações gerais;
-- [x] Pesquisar conceitos de geografia de fluxo logístico;
-- [x] Documentação sprint 1;
+- [x] Backlog do produto;
+- [x] GitHub estruturado com link disponibilizado;
+- [x] Jira Software estruturado;
+- [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Coleta e tratamento dos dados;
