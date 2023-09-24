@@ -21,10 +21,19 @@ e podem envolver a aplicação de conhecimentos de várias disciplinas para reso
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+# Projeto 
+
+# Objetivo 
+Estabelecer um dashboard eficiente (dentro do Power BI )que permita o usuário visualizar os modais de transporte mais utilizados para importação e exportação no Brasil, ao mesmo tempo em que proporciona uma representação gráfica e geográfica do fluxo de cargas.
+
+# Justificativa do projeto
+Ao criar relacionamentos entre diferentes conjuntos de dados , é possível fornecer uma visão abrangente e detalhada do panorama logístico do país. Isso permitirá aos usuários explorar e compreender melhor as dinâmicas dos modais de transporte, identificar tendências e tomar decisões com base nas informações apresentadas.
+
+# Resultado esperado
+O dashboard resultante não apenas fornecerá uma visão geral dos modais mais utilizados, mas também permitirá uma análise aprofundada como, custos, análise mensal dos resultados das movimentações de cargas e volumes de carga. Além disso, a representação geográfica das cargas permitirá visualizar de forma intuitiva as rotas e os hubs logísticos mais críticos no Brasil.
+Sendo assim, o projeto visa capacitar profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis. O Power BI servirá como uma plataforma poderosa para transformar dados em insights valiosos, permitindo que as partes interessadas naveguem no complexo panorama da logística brasileira de maneira eficaz e eficiente.
+
+
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -45,15 +54,8 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos_page-0001.jpg?raw=true)
+![Equipe](https://user-images.githubusercontent.com/142995260/270177301-73c0b785-9438-4664-a647-2cc25e41fdca.jpg)
 
-# Objetivo do Projeto
-O objetivo deste projeto é estabelecer um eficiente e interativo dashboard de análise de dados dentro do Power BI, focando nos modais
-de transporte mais utilizados para importação e exportação no Brasil, ao mesmo tempo em que proporciona uma representação gráfica e 
-geográfica do fluxo de cargas. Ao criar relacionamentos entre diferentes conjuntos de dados relevantes, é possível fornecer uma visão
-abrangente e detalhada do panorama logístico do país. O dashboard resultante não apenas fornecerá uma visão geral dos modais mais utilizados,
-mas também permitirá uma análise profunda como, custos, tempos de trânsito e volumes de carga. Além disso, a representação geográfica das cargas
-permitirá visualizar de forma intuitiva as rotas e os hubs logísticos. Sendo assim, este projeto visa capacitar empresas e profissionais do setor de logística com as ferramentas necessárias para otimizar operações, reduzir custos e tomar decisões estratégicas fundamentadas em dados confiáveis.
 
 # Cronograma das Sprints
 
