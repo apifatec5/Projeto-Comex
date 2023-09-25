@@ -107,27 +107,15 @@ User stories
 - [ ] Documentação sprint 1;
       
 ## Sprint 2 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Pesquisar conceito da geografia dos Fluxos;
+- [ ] Analise SWOT dos dados resultantes do dashboard;
+- [ ] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
+- [ ] Criar mapa no Power BI;
+- [ ] Desenvolva o design.
       
 ## Sprint 3. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
+- [ ] Terminar as 5 telas requisitadas;
+- [ ] Apresentar os dados do desempenho de SJC.
 
 # Competências desenvolvidas
 
