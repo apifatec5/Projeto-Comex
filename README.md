@@ -64,12 +64,9 @@ Futuramente
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://2023co.atlassian.net/jira/software/projects/SCRUM/boards/2)
-
-# Backlog do produto
   
 <div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/142995260/270197239-4b046739-c842-4eb3-ba2d-ad25c6350ee6.jpg)
+
 
 </div>
 
@@ -77,15 +74,14 @@ Regras de Negócio
 - 
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+- Dashboard   
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
+- Power BI
+- Jira software
+- 5W2H
+- GitHub
   
 User stories
 
@@ -100,18 +96,20 @@ User stories
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Coleta e tratamento dos dados;
-- [ ] Fazer relacionamento dos dados no Power BI;
-- [ ] Dashboard (TESTE) das informações gerais;
-- [ ] Pesquisar conceitos de geografia de fluxo logístico;
-- [ ] Documentação sprint 1;
+- [ ] Fazer o relacionamento dos dados no Power BI;
+- [ ] Pesquisa de apoio para contextualizar o projeto;
+- [ ] Atualizar o Git Hub de acordo com o feedback do cliente;
+- [ ] Fazer relatório técnico da sprint 1;
+- [ ] Projetar dash teste (dados gerais);
+- [ ] Gerenciar o 5W2H;
+- [ ] Workshop de Power BI para nivelamento da equipe com a ferramenta.
       
 ## Sprint 2 . Implementação
 - [ ] Pesquisar conceito da geografia dos Fluxos;
+- [ ] Dash teste tela de SP;
 - [ ] Analise SWOT dos dados resultantes do dashboard;
 - [ ] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
 - [ ] Criar mapa no Power BI;
-- [ ] Desenvolva o design.
       
 ## Sprint 3. Operacionalização
 - [ ] Terminar as 5 telas requisitadas;
