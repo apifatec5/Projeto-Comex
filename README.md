@@ -36,6 +36,23 @@ Sendo assim, o projeto visa capacitar profissionais do setor de logística com a
 
 
 
+
+# Equipe
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |  <a href="https://github.com/ComexSmart/ComexSmart/commit/d1dde23d589f9f41f6e0fdfe27bd11fc41be94eb"><img src="https://user-images.githubusercontent.com/142995260/271426802-1b594fbe-eaa8-490d-b08f-522452756d2f.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Júlia Vitória</p>|     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-vit%C3%B3ria-2502b9202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
+| Scrum Master  |  <a href="https://user-images.githubusercontent.com/142995260/273606204-7e156cbd-5834-46c2-b3de-9a55555f111f.jpg"><img src="https://user-images.githubusercontent.com/142995260/273606204-7e156cbd-5834-46c2-b3de-9a55555f111f.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Douglas Abraão</p>|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nogueira-85b23128a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
+| Team Member   | <a href="https://user-images.githubusercontent.com/142995260/273607131-51127998-a41a-418b-878e-14ac3e079240.jpg"><img src="https://user-images.githubusercontent.com/142995260/273607131-51127998-a41a-418b-878e-14ac3e079240.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Allan Quirino</p>             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
+|  Team Member  |   <a href="https://user-images.githubusercontent.com/142995260/273608311-56f0ee9e-3a47-4783-8535-5a30bacfe8dd.jpg"><img src="https://user-images.githubusercontent.com/142995260/273608311-56f0ee9e-3a47-4783-8535-5a30bacfe8dd.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Jocemar Santos</p>           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jocemar-santos-9912bb264) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Team Member  |  <a href="https://user-images.githubusercontent.com/142995260/273609504-5461f942-1a61-4e2f-aece-944899cb4bda.jpg"><img src="https://user-images.githubusercontent.com/142995260/273609504-5461f942-1a61-4e2f-aece-944899cb4bda.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Maria Martins</p>              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-morais-martins-379099287/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
+|  Team Member  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Maria Ferreira</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-a30b29260/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+
+
+
+# Cronograma das Sprints
+
+## Cronograma
+
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -45,25 +62,8 @@ Sprint | Previsão | Status| Histórico|
 |03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-
-# Equipe
-![Equipe](https://user-images.githubusercontent.com/142995260/270177301-73c0b785-9438-4664-a647-2cc25e41fdca.jpg)
-
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
 #### Cronograma das Sprints[(clique aqui)](https://2023co.atlassian.net/jira/software/projects/SCRUM/boards/2)
+
   
 <div align="center">
 
@@ -82,8 +82,8 @@ Requisitos não funcionais
 - Jira software
 - 5W2H
 - GitHub
+- Miro
   
-User stories
 
 # Burndown
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
@@ -145,15 +145,5 @@ User stories
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
-
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |  <a href="https://github.com/ComexSmart/ComexSmart/commit/d1dde23d589f9f41f6e0fdfe27bd11fc41be94eb"><img src="https://user-images.githubusercontent.com/142995260/271426802-1b594fbe-eaa8-490d-b08f-522452756d2f.jpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Júlia Vitória</p>|     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-vit%C3%B3ria-2502b9202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Douglas Nogueira|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nogueira-85b23128a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | Allan Quirino             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Jocemar Santos            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jocemar-santos-9912bb264) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Maria Clara Martins               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-clara-morais-martins-379099287/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | Maria Eduarda Ferreira    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-a30b29260/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
 
