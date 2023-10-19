@@ -96,24 +96,28 @@ Requisitos não funcionais
 - [x] Atribuição das atividades para a Sprint 1.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Fazer o relacionamento dos dados no Power BI;
-- [ ] Pesquisa de apoio para contextualizar o projeto;
-- [ ] Atualizar o Git Hub de acordo com o feedback do cliente;
-- [ ] Fazer relatório técnico da sprint 1;
-- [ ] Projetar dash teste (dados gerais);
-- [ ] Gerenciar o 5W2H;
-- [ ] Workshop de Power BI para nivelamento da equipe com a ferramenta.
+- [x] Fazer o relacionamento dos dados no Power BI;
+- [x] Pesquisa de apoio para contextualizar o projeto;
+- [x] Atualizar o Git Hub de acordo com o feedback do cliente;
+- [x] Fazer relatório técnico da sprint 1;
+- [x] Projetar dash teste (dados gerais);
+- [x] Gerenciar o 5W2H;
+- [x] Workshop de Power BI para nivelamento da equipe com a ferramenta.
       
 ## Sprint 2 . Implementação
-- [ ] Pesquisar conceito da geografia dos Fluxos;
-- [ ] Dash teste tela de SP;
+- [x] Pesquisar conceito da geografia dos Fluxos;
+- [x] Dash teste tela de SP;
 - [ ] Analise SWOT dos dados resultantes do dashboard;
-- [ ] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
+- [x] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
 - [ ] Criar mapa no Power BI;
+- [ ] Fazer relatório técnico da sprint 2;
+- [ ] Gerenciar o 5W2H;
       
 ## Sprint 3. Operacionalização
 - [ ] Terminar as 5 telas requisitadas;
-- [ ] Apresentar os dados do desempenho de SJC.
+- [ ] Apresentar os dados do desempenho de SJC e carga específica;
+- [ ] Fazer relatório técnico da sprint 3;
+- [ ] Gerenciar o 5W2H;
 
 # Competências desenvolvidas
 
