@@ -11,11 +11,12 @@ e podem envolver a aplicação de conhecimentos de várias disciplinas para reso
 
 # Índice
 
-* [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
+* [Projeto](#Projeto)
+* [Justificativa do projeto](#Justificativa-do-projeto)
+* [Resultado esperado](#Resultado-esperado) 
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Burndown](#Burndown)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
