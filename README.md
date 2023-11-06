@@ -104,6 +104,11 @@ Requisitos não funcionais
 - [x] Projetar dash teste (dados gerais);
 - [x] Gerenciar o 5W2H;
 - [x] Workshop de Power BI para nivelamento da equipe com a ferramenta.
+
+## Resultado
+
+<img src="https://github.com/ComexSmart/ComexSmart/commit/b103c78e5463d9b00c51df45d269d27f80cfa1cd#commitcomment-131859632"/>
+
       
 ## Sprint 2 . Implementação
 - [x] Pesquisar conceito da geografia dos Fluxos;
