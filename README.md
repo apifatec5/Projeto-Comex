@@ -87,7 +87,7 @@ Requisitos não funcionais
   
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+![sprint backlog](https://github.com/ComexSmart/ComexSmart/commit/b103c78e5463d9b00c51df45d269d27f80cfa1cd#commitcomment-132637946)
 
 
 ## Sprint 0. Concepção
@@ -113,11 +113,10 @@ Requisitos não funcionais
 ## Sprint 2 . Implementação
 - [x] Pesquisar conceito da geografia dos Fluxos;
 - [x] Dash teste tela de SP;
-- [ ] Analise SWOT dos dados resultantes do dashboard;
 - [x] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
-- [ ] Criar mapa no Power BI;
-- [ ] Fazer relatório técnico da sprint 2;
-- [ ] Gerenciar o 5W2H;
+- [x] Fazer relatório técnico da sprint 2;
+- [x] Gerenciar o 5W2H;
+- [x] Dashboard de probabilidades.
       
 ## Sprint 3. Operacionalização
 - [ ] Terminar as 5 telas requisitadas;
