@@ -87,7 +87,7 @@ Requisitos não funcionais
   
 
 # Burndown
-![sprint backlog](https://github.com/ComexSmart/ComexSmart/commit/b103c78e5463d9b00c51df45d269d27f80cfa1cd#commitcomment-132637946)
+![sprint backlog](https://github.com/ComexSmart/ComexSmart/blob/main/imagem/Burn.png?raw=true)
 
 
 ## Sprint 0. Concepção
@@ -107,7 +107,7 @@ Requisitos não funcionais
 
 ## Resultado
 
-<img src="https://github.com/ComexSmart/ComexSmart/commit/b103c78e5463d9b00c51df45d269d27f80cfa1cd#commitcomment-131859632"/>
+<img width=100% src="https://user-images.githubusercontent.com/142995260/283203023-721d1212-9feb-4766-b3e5-ef7d3f43cc01.mp4">
 
       
 ## Sprint 2 . Implementação
