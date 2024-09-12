@@ -53,15 +53,15 @@ Sendo assim, o projeto visa capacitar profissionais do setor de logística com a
 # Cronograma das Sprints
 
 ## Cronograma
-
+EEEEEEEEDDDDDDDDDDDIIIIIIIITTTTTTTTTTTTAAAAAAAAAAAAAARRRRRRRRRR EDITAR EDITAR
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 27/09/2023| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  18/10/2023| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 08/11/2023 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 29/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00 | 26/09/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01|  17/10/2024| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 07/11/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 28/11/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 #### Cronograma das Sprints[(clique aqui)](https://2023co.atlassian.net/jira/software/projects/SCRUM/boards/2)
 
@@ -115,14 +115,14 @@ Requisitos não funcionais
 - [x] Dash teste tela de SP;
 - [x] Pesquisar dados de longitudade e latitude das cidades que compõem o Estado de SP;
 - [x] Fazer relatório técnico da sprint 2;
-- [x] Gerenciar o 5W2H;
+- [x] EDITAR;
 - [x] Dashboard de probabilidades.
       
 ## Sprint 3. Operacionalização
-- [ ] Terminar as 5 telas requisitadas;
-- [ ] Apresentar os dados do desempenho de SJC e carga específica;
-- [ ] Fazer relatório técnico da sprint 3;
-- [ ] Gerenciar o 5W2H;
+- [ ] EDITAR;
+- [ ] EDITAR;
+- [ ] EDITAR;
+- [ ] EDITAR;
 
 # Competências desenvolvidas
 
